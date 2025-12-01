@@ -1,1 +1,0 @@
-alert("Hola Usuario, bienvenido a la practica basica de GIT y GitHub");
